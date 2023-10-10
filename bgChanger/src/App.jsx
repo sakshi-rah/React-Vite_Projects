@@ -24,6 +24,7 @@ function App() {
 
       <div className='text-center text-4xl font-bold m-5 font-serif text-slate-500'>
         <h1>{text}</h1>
+      
       </div>
 
     </div>
